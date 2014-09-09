@@ -1,0 +1,12 @@
+-[0000:00]-+-00.0  Intel Corporation 3rd Gen Core processor DRAM Controller
+           +-02.0  Intel Corporation 3rd Gen Core processor Graphics Controller
+           +-16.0  Intel Corporation 7 Series/C210 Series Chipset Family MEI Controller #1
+           +-1a.0  Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #2
+           +-1b.0  Intel Corporation 7 Series/C210 Series Chipset Family High Definition Audio Controller
+           +-1c.0-[01]--
+           +-1c.2-[02]----00.0  Intel Corporation Centrino Advanced-N 6235
+           +-1c.4-[03-3b]--
+           +-1d.0  Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #1
+           +-1f.0  Intel Corporation QS77 Express Chipset LPC Controller
+           +-1f.2  Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode]
+           \-1f.3  Intel Corporation 7 Series/C210 Series Chipset Family SMBus Controller

@@ -1,0 +1,11 @@
+pcilib: Cannot open /sys/bus/pci/devices/0000:04:06.0/config
+lspci: Unable to read the standard configuration space header of device 0000:04:06.0
+pcilib: Cannot open /sys/bus/pci/devices/0000:04:05.0/config
+lspci: Unable to read the standard configuration space header of device 0000:04:05.0
+pcilib: Cannot open /sys/bus/pci/devices/0000:04:04.0/config
+lspci: Unable to read the standard configuration space header of device 0000:04:04.0
+pcilib: Cannot open /sys/bus/pci/devices/0000:04:03.0/config
+lspci: Unable to read the standard configuration space header of device 0000:04:03.0
+pcilib: Cannot open /sys/bus/pci/devices/0000:04:00.0/config
+lspci: Unable to read the standard configuration space header of device 0000:04:00.0
+
